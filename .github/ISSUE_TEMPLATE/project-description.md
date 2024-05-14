@@ -16,6 +16,6 @@ Full Name (Acronym)
 
 # Quick Facts
 - [External Homepage](URL)
-- **Duration**: YYYY-MM-DD; 00:00 TimeZone - YYYY-MM-DD; 24:00 CET
+- **Duration**: YYYY-MM-DD; 00:00 TimeZone - YYYY-MM-DD; 24:00 TimeZone
 - Funders: 
    - [Name](URL)
