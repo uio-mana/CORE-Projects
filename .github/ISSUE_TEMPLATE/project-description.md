@@ -9,15 +9,13 @@ assignees: ''
 ---
 
 # Project Name
-[Add the project name here, if the project has an acronym, add it in parentheses]
+Full Name (Acronym)
 
 # Project Description
 [Add a project description here]
 
 # Quick Facts
-## Project Duration
-[Note project duration here]
-## Project Funding
-[Note project funding here]
-## Project Website
-[Link to project website here]
+- [External Homepage](URL)
+- **Duration**: YYYY-MM-DD; 00:00 TimeZone - YYYY-MM-DD; 24:00 CET
+- Funders: 
+   - [Name](URL)
